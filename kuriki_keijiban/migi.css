@@ -1,0 +1,12 @@
+.migi{
+    margin:0 auto;
+    margin-left:10px;
+}
+
+h3{
+    border-bottom:3px dotted #ededed;
+}
+
+.migi ul li{
+    list-style:none;
+}
